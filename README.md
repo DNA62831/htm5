@@ -28,8 +28,9 @@ $ python app.py
 ```
 
 ## Screenshots
-[![ApnaAnaaj](https://github.com/rahuldkjain/Crop_Prediction/blob/master/static/Screenshot%20(23).png)]
-[![ApnaAnaaj](https://github.com/rahuldkjain/Crop_Prediction/blob/master/static/Screenshot%20(24).png)]
-[![ApnaAnaaj](https://github.com/rahuldkjain/Crop_Prediction/blob/master/static/Screenshot%20(25).png)]
-[![ApnaAnaaj](https://github.com/rahuldkjain/Crop_Prediction/blob/master/static/Screenshot%20(26).png)]
-[![ApnaAnaaj](https://github.com/rahuldkjain/Crop_Prediction/blob/master/static/Screenshot%20(27).png)]
+
+![Screenshot 2024-09-15 133704](https://github.com/user-attachments/assets/0d4b89e8-d245-40bf-8d86-b28cb6223d94)
+![Screenshot 2024-09-15 133716](https://github.com/user-attachments/assets/698f9bfb-1cba-49e5-b843-7ba83733ebea)
+![Screenshot 2024-09-15 133729](https://github.com/user-attachments/assets/e47c9e7c-3abf-4ee8-90ae-e82eef56430d)
+![Screenshot 2024-09-15 133741](https://github.com/user-attachments/assets/45ab4662-7a50-40c1-94a2-7fa094827548)
+
